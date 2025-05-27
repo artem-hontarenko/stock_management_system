@@ -1,0 +1,4 @@
+org.stockmanager
+org.stockmanager.model
+org.stockmanager.service
+org.stockmanager.storage

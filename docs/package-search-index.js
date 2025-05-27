@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.stockmanager"},{"l":"org.stockmanager.model"},{"l":"org.stockmanager.service"},{"l":"org.stockmanager.storage"}];updateSearchResults();
